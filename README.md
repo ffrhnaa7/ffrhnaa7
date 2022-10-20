@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @ffrhnaa7
-- 👀 I’m interested in improving myself
 - 🌱 I’m currently learning JAVA,C and Python
 
 
