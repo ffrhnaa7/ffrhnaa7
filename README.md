@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning JAVA,C and Python
+- 🌱 A university sophomore
 
 
 <!---
