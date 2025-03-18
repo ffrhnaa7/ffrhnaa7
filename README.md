@@ -60,11 +60,11 @@
 </table>
 <!--- stats (end) -->
 
-<!--- trophy (start) -->
-<div align=center>
- [![trophy](https://github-profile-trophy.vercel.app/?username=ffrhnaa7&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
-<!--- trophy (start) -->
+ <!--- trophy (start) -->
+  <div align="center">
+    [![trophy](https://github-profile-trophy.vercel.app/?username=ffrhnaa7&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  </div>
+  <!--- trophy (end) -->
 
 
 </p>        
@@ -101,12 +101,6 @@
 </p>
 
 
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=ffrhnaa7&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
 
 
 <!--horizontal divider(gradiant)-->
