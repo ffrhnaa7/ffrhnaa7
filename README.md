@@ -62,7 +62,7 @@
 
  <!--- trophy (start) -->
   <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ffrhnaa7&theme=onedark" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=ffrhnaa7&theme=onedark&title=-Stars,-Followers,-Issues,-PullRequest,-Reviews" alt="GitHub Trophies"/>
   </div>
   <!--- trophy (end) -->
 
