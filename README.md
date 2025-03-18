@@ -62,9 +62,7 @@
 
 <!--- trophy (start) -->
 <div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=ffrhnaa7&theme=chalk" alt="trophy" />
-    </a>
+ [![trophy](https://github-profile-trophy.vercel.app/?username=ffrhnaa7&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 <!--- trophy (start) -->
 
