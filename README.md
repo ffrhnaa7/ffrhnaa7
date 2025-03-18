@@ -62,7 +62,7 @@
 
  <!--- trophy (start) -->
   <div align="center">
-    [![trophy](https://github-profile-trophy.vercel.app/?username=ffrhnaa7&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+    <img src="https://github-profile-trophy.vercel.app/?username=ffrhnaa7&theme=onedark" alt="GitHub Trophies"/>
   </div>
   <!--- trophy (end) -->
 
