@@ -1,110 +1,75 @@
+# 🌀 Maze Soulslike: KNU_CAPSTONE_DESIGN (2025)
 
+🇰🇷 [한국어 소개](#게임-소개) | 🌐 [English Description](#about-the-game)
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Hana</h1></summary>
-  </ul>
-</div>
+## 🎮 게임 소개
 
+**Maze Soulslike**는 2025년 강원대학교 캡스톤디자인 프로젝트로 제작된 소울라이크 스타일의 3D 액션 어드벤처 게임입니다.  
+플레이어는 복잡한 미로를 탐험하고, 고블린과 보스를 처치하며 전투 기술을 연마해야 합니다.
 
-<!--- snake -->
+### 📌 주요 특징
 
+- ⚔️ *전투 시스템* — 패링, 회피, 스킬 기반 전투
+- 🧠 *AI 적들* — 순찰, 추적, 공격 등 상태 기반 FSM AI
+- 🌌 *몰입감 있는 환경* — Unity 기반의 정교한 조명 및 사운드
+- 🔊 *사운드 효과* — 타격감 있는 피드백 제공
+- 📜 *스토리 진행* — 플레이어의 선택과 탐험에 따라 진화
 
+### 👨‍💻 팀 정보
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">In the blurred line between art and tech</h2></summary>
-  </ul>
-</div>
+**SoulsStudio Team (강원대학교 2025)**  
+- 기획: 전체 미로 구조 및 소울라이크 진행 흐름 설계  
+- 개발: Unity 기반 3D 게임 구현 및 애니메이션 FSM 개발  
+- 사운드 & UI: 효과음, 음악, 게임 내 인터페이스 구성
 
+---
 
-<!--Intro start-->
-- 👩‍🎓 A confused senior student from **Malaysia** studying in South Korea
+## 🧭 About the Game
 
-- 📚 I’m currently learning **Network, Systems, Cloud, DB, UXUI, Design**
+**Maze Soulslike** is a 3D action-adventure game developed as part of the 2025 Capstone Design project at Kangwon National University.  
+The player explores a complex maze while defeating goblins and a final boss in a Soulslike combat experience.
 
-- ☁️ I've keen interest in cloud computing. So,I'm also learning **AWS, Google Cloud**
+### 🎯 Features
 
-- 💬 Ask me about **how it feel's studying CSE in a 3rd language**
+- ⚔️ *Combat Mechanics* — Parry, dodge, and action skill timing
+- 🧠 *Enemy AI* — Patrol, chase, and attack using state machines (FSM)
+- 🌌 *Immersive Environment* — Dynamic lighting and responsive design
+- 🔊 *Sound Effects* — High-quality hit and ambient feedback
+- 📜 *Narrative Flow* — Evolving gameplay based on choices and exploration
 
-- 📫 Feel free to reach me out !
+### 👾 Team SoulsStudio
 
-- 🍀 A trilingual that might turn into bye-lingual -> **Malay, English, Korean**
+A student game development team from Kangwon National University  
+- Design: Core concept and maze-soulslike architecture  
+- Programming: Unity-driven logic and AI integration  
+- UX & Audio: UI/UX, sound design, and animation syncing
 
-<!--Intro end-->
+---
 
+## 🛠️ Tech Stack
 
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ffrhnaa7&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
+- **Unity 2022.3+**
+- NavMesh AI System
+- Animator Controller (FSM)
+- AudioSource & SFX control
+- C# MonoBehavior-based scripting
 
-</td>
+---
 
-<td width="50%" align="center">
+## 🏁 시작 방법 (How to Start)
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ffrhnaa7&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
+1. Clone this repository  
+   `git clone https://github.com/SoulsStudio/KNU_CAPSTONE_DESIGN.git`
+2. Open in Unity 2022.3 or newer
+3. Play the scene `JSG_TestLevel.unity` to begin
 
- <!--- trophy (start) -->
-  <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ffrhnaa7&theme=onedark&title=-Stars,-Followers,-Issues,-PullRequest,-Reviews" alt="GitHub Trophies"/>
-  </div>
-  <!--- trophy (end) -->
+---
 
+## 💬 문의 (Contact)
 
-</p>        
-<!--- stats (end) -->
+프로젝트 관련 문의는 SoulsStudio 팀에게 연락 주세요.  
+For questions, contact the [SoulsStudio GitHub Issues](https://github.com/SoulsStudio/KNU_CAPSTONE_DESIGN/issues)
 
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Interests👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,github,html,linux,vim,unity,bash,rust,ps,ai,figma,blender,notion&perline=14" />
-  </a>
-</p>
-
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
-
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/ffrhnaa7/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-
-
-</p>
-
-
-
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-----------------------------------------------------------------------
-02/05/2024
+---
