@@ -24,9 +24,9 @@
 
 
 <!--Intro start-->
-- 👩‍🎓 A confused senior student from **Malaysia** studying in South Korea
+- 👩‍🎓 **Malaysian** Software Engineer in the Republic of Korea
 
-- 📚 I’m currently learning **Network, Systems, Cloud, DB, UXUI, Design**
+- 📚 I’m currently into **Network, Systems, Cloud, DB, UXUI, Design**
 
 - ☁️ I've keen interest in cloud computing. So,I'm also learning **AWS, Google Cloud**
 
