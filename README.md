@@ -11,21 +11,17 @@
 In the blurred line between art and tech 
 </h3>
 
----
 <!-- ==================== INTRO ==================== -->
-
 ##  About Me
 
 - Malaysian Software Engineer based in the Republic of Korea
-- Interested in **Systems, Cloud, Networks, UX/UI, DB, Design**
+- Interested in **Systems, Cloud, Networks, UX/UI, DB**
 - Currently learning **AWS & Google Cloud**
 - Ask me about studying Computer Science in a 3rd language
 - Trilingual — **Malay, English, Korean**
 - Passionate about blending creativity with technology
 
----
 <!-- ==================== STATS ==================== -->
-
 ##  GitHub Analytics
 
 <p align="center">
@@ -34,9 +30,7 @@ In the blurred line between art and tech
   <img width="41%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ffrhnaa7&layout=compact&theme=rose_pine&hide_border=true"/>
 </p>
 
----
 <!-- ==================== TROPHY ==================== -->
-
 <div align="center">
 
 ##  Achievements
@@ -45,7 +39,6 @@ In the blurred line between art and tech
 
 </div>
 
----
 <!-- ==================== SNAKE ==================== -->
 
 <div align="center">
@@ -56,7 +49,6 @@ In the blurred line between art and tech
 
 </div>
 
----
 <!-- ==================== TECH STACK ==================== -->
 
 <div align="center">
@@ -66,8 +58,6 @@ In the blurred line between art and tech
 <img src="https://skillicons.dev/icons?i=cpp,c,github,html,linux,vim,unity,bash,rust,ps,ai,figma,blender,notion&perline=7" />
 
 </div>
-
----
 
 <!-- ==================== PROFILE VIEWS ==================== -->
 
