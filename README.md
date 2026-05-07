@@ -18,9 +18,8 @@ In the blurred line between art and tech
 <h3 align="center">
 About Me
 </h3>
-<p align="center">
-Malaysian software engineer navigating life in Korea through systems, cloud, design, and caffeine, occasional identity crises between art and tech
-</p>
+
+<h3 align="center"> Malaysian software engineer navigating life in Korea through systems, cloud, design, and caffeine — occasional identity crises between art and tech ☁️ </h3>
 <!-- ==================== STATS ==================== -->
 <h3 align="center">
 GitHub Analytics
