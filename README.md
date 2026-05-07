@@ -22,54 +22,41 @@ In the blurred line between art and tech
 - Passionate about blending creativity with technology
 
 <!-- ==================== STATS ==================== -->
-##  GitHub Analytics
-
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ffrhnaa7&theme=rose_pine&show_icons=true&hide_border=true"/>
-  
+
+  ##  GitHub Analytics
   <img width="41%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ffrhnaa7&layout=compact&theme=rose_pine&hide_border=true"/>
 </p>
 
 <!-- ==================== TROPHY ==================== -->
 <div align="center">
-
+  
 ##  Achievements
-
 <img src="https://github-profile-trophy.vercel.app/?username=ffrhnaa7&theme=onedark&no-frame=true&row=1&column=6"/>
-
 </div>
 
 <!-- ==================== SNAKE ==================== -->
 
 <div align="center">
-
+  
 ##  Contribution Graph
-
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
 </div>
 
 <!-- ==================== TECH STACK ==================== -->
 
 <div align="center">
-
+  
 ##  Interests & Tools
-
 <img src="https://skillicons.dev/icons?i=cpp,c,github,html,linux,vim,unity,bash,rust,ps,ai,figma,blender,notion&perline=7" />
-
 </div>
 
 <!-- ==================== PROFILE VIEWS ==================== -->
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ffrhnaa7&label=Profile+Views&color=ff69b4&style=flat"/>
-
+<img src="https://komarev.com/ghpvc/?username=ffrhnaa7&label=Profile+Views&color=F7A8C4&style=flat"/>
 </div>
 
----
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=180&section=footer"/>
 </p>
-
-```
