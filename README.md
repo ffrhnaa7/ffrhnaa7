@@ -12,7 +12,6 @@ In the blurred line between art and tech
 </h3>
 
 ---
-
 <!-- ==================== INTRO ==================== -->
 
 ##  About Me
@@ -25,19 +24,6 @@ In the blurred line between art and tech
 - Passionate about blending creativity with technology
 
 ---
-
-<!-- ==================== SPOTIFY ==================== -->
-
-<div align="center">
-
-##  Currently Vibing To
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=c43wqf5e30dj9etnj040epoa2&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=F7A8C4&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-</div>
-
----
-
 <!-- ==================== STATS ==================== -->
 
 ##  GitHub Analytics
@@ -49,7 +35,6 @@ In the blurred line between art and tech
 </p>
 
 ---
-
 <!-- ==================== TROPHY ==================== -->
 
 <div align="center">
@@ -61,7 +46,6 @@ In the blurred line between art and tech
 </div>
 
 ---
-
 <!-- ==================== SNAKE ==================== -->
 
 <div align="center">
@@ -73,7 +57,6 @@ In the blurred line between art and tech
 </div>
 
 ---
-
 <!-- ==================== TECH STACK ==================== -->
 
 <div align="center">
@@ -95,20 +78,8 @@ In the blurred line between art and tech
 </div>
 
 ---
-
-<!-- ==================== CONNECT ==================== -->
-
-<div align="center">
-
-##  Connect With Me
-
-<a href="https://www.linkedin.com/in/ffrhnaa7/" target="blank">
-<img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
-</a>
-
-</div>
-
----
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=180&section=footer"/>
+</p>
 
 ```
