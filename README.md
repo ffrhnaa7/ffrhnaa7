@@ -18,14 +18,14 @@ In the blurred line between art and tech
 <h3 align="center">
 About Me
 </h3>
-
+<p align="center">
 - Malaysian Software Engineer based in the Republic of Korea
 - Interested in **Systems, Cloud, Networks, UX/UI, DB**
 - Currently learning **AWS & Google Cloud**
 - Ask me about studying Computer Science in a 3rd language
 - Trilingual — **Malay, English, Korean**
 - Passionate about blending creativity with technology
-
+</p>
 <!-- ==================== STATS ==================== -->
 <h3 align="center">
 GitHub Analytics
