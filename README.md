@@ -18,6 +18,7 @@ In the blurred line between art and tech
 <h3 align="center">
 About Me
 </h3>
+
 - Malaysian Software Engineer based in the Republic of Korea
 - Interested in **Systems, Cloud, Networks, UX/UI, DB**
 - Currently learning **AWS & Google Cloud**
