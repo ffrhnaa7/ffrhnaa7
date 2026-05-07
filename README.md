@@ -10,10 +10,14 @@
 <h3 align="center">
 In the blurred line between art and tech 
 </h3>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=ffrhnaa7&label=Profile+Views&color=F7A8C4&style=flat"/>
+</div>
 
 <!-- ==================== INTRO ==================== -->
-##  About Me
-
+<h3 align="center">
+About Me
+</h3>
 - Malaysian Software Engineer based in the Republic of Korea
 - Interested in **Systems, Cloud, Networks, UX/UI, DB**
 - Currently learning **AWS & Google Cloud**
@@ -22,39 +26,35 @@ In the blurred line between art and tech
 - Passionate about blending creativity with technology
 
 <!-- ==================== STATS ==================== -->
+<h3 align="center">
+GitHub Analytics
+</h3>
 <p align="center">
-
-  ##  GitHub Analytics
   <img width="41%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ffrhnaa7&layout=compact&theme=rose_pine&hide_border=true"/>
 </p>
 
 <!-- ==================== TROPHY ==================== -->
+<h3 align="center">
+Achievements
+</h3>
 <div align="center">
-  
-##  Achievements
 <img src="https://github-profile-trophy.vercel.app/?username=ffrhnaa7&theme=onedark&no-frame=true&row=1&column=6"/>
 </div>
 
 <!-- ==================== SNAKE ==================== -->
-
+<h3 align="center">
+Contribution Graph
+</h3>
 <div align="center">
-  
-##  Contribution Graph
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 <!-- ==================== TECH STACK ==================== -->
-
+<h3 align="center">
+Interests & Tools
+</h3>
 <div align="center">
-  
-##  Interests & Tools
 <img src="https://skillicons.dev/icons?i=cpp,c,github,html,linux,vim,unity,bash,rust,ps,ai,figma,blender,notion&perline=7" />
-</div>
-
-<!-- ==================== PROFILE VIEWS ==================== -->
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=ffrhnaa7&label=Profile+Views&color=F7A8C4&style=flat"/>
 </div>
 
 <p align="center">
